@@ -1,11 +1,11 @@
 import Clock from "./Components/Clock-component";
-import Date from "./Components/Date-component";
+import Dates from "./Components/Date-component";
 
 function App() {
   return (
     <>
       <Clock />
-      <Date />
+      <Dates />
     </>
   );
 }
