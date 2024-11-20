@@ -542,7 +542,7 @@
       rgb(235, 151, 78, 0.35),
       rgb(230, 125, 34, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("../../../public/eating.jpg");
   background-size: cover;
   background-position: center;
   transition: all 0.5s;
