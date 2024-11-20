@@ -1,8 +1,11 @@
+import Clock from "./Components/Clock-component";
+import Date from "./Components/Date-component";
 
 function App() {
   return (
     <>
-      <p>Arunav</p>
+      <Clock />
+      <Date />
     </>
   );
 }
